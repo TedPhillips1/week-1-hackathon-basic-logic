@@ -2,7 +2,7 @@
 
 # Rock, Paper, Lizard, Scissors, Lizard, Spock Game
 
-This app was made by Ted Phillips, Hannah Whelan and Leanne Smith on 19/11/21. this app is a game where you enter your name and play Rock, Paper, Lizard, Scissors, Lizard, Spock against a computer. The computer can be changed within the code to have varying levels of difficulty. We also used filters on the player name to restrict it to a certain length and to make sure the first character is capitalised. We used an object to track the players score. This can be viewed after each round. There is also an option to finish playing by pressing cancel.
+This app was made by Ted Phillips, Hannah Whelan and Leanne Smith on 19/11/21. This app is a game where you enter your name and play Rock, Paper, Lizard, Scissors, Lizard, Spock against a computer. The computer can be changed within the code to have varying levels of difficulty. We also used filters on the player name to restrict it to a certain length and to make sure the first character is capitalised. We used an object to track the players score. This can be viewed after each round. There is also an option to finish playing by pressing cancel.
 
 ## Installation
 
