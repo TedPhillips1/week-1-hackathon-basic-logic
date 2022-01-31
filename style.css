@@ -1,0 +1,18 @@
+html {
+    background: #15133c;
+}
+
+body {
+    color: #5fc5ba;
+    text-align: center;
+}
+
+#game {
+    height: 400px;
+    width: 400px;
+    float: center;
+}
+
+div {
+    margin-top: 15%;
+}
